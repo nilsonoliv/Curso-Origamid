@@ -1,0 +1,8 @@
+@media (min-width: 300px) {
+  .menu {
+    gap: 0px;
+    justify-content: space-evenly;  
+    width: 80vw;    
+
+  }
+}
