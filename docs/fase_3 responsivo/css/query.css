@@ -1,8 +1,14 @@
-@media (min-width: 300px) {
+@media (min-width: 600px) {
   .menu {
-    gap: 0px;
+    gap: 0 20px 20px 0;
     justify-content: space-evenly;  
     width: 80vw;    
-
+  }
+  .menu a {
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    color: #000000;
+    text-transform: uppercase;
+    border: 2px solid #fff;
   }
 }
